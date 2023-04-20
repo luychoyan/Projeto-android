@@ -7,11 +7,10 @@ header{
     text-align: center;
     box-shadow: 2px 2px 2px black;
     color: aliceblue;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    min-height: 150px;
+    font-family: Arial, Helvetica, sans-serif, 'Times New Roman', Times, serif;
     padding: 10px;
     border-radius: 10px;
-    height: 150px;
+    min-height: 150px;
     
 }
 
@@ -19,15 +18,18 @@ header > h1{
     margin-top: 1px;
     margin: auto;
     text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.503);
+    padding: 7px;
+    margin-bottom: 10px;
     
     
 }
 
 header > p{
+    
     margin: auto;
     text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.503);
-    margin-top: 10px;
-    width: 450px;
+    margin-top: 3px;
+    min-width: 350px;
     padding: 5px;
     
     
